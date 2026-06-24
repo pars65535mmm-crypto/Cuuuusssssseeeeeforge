@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "cuuuusssssseeeeeforge",
+	"version": "${version}",
+	"name": "Cuuuusssssseeeeeforge",
+	"description": "A fan-made meme mod that adds a joke anvil named curseforge.",
+	"authors": [
+		"tyamizumoti"
+	],
+	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/cuuuusssssseeeeeforge"
+	},
+	"license": "MIT",
+	"icon": "assets/cuuuusssssseeeeeforge/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.ccccc.cuuuusssssseeeeeforge.Cuuuusssssseeeeeforge"
+		]
+	},
+	"mixins": [
+		"cuuuusssssseeeeeforge.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}
