@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " N ",
+    "   "
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "cuuuusssssseeeeeforge:curseforge_anvil",
+    "count": 1
+  }
+}
